@@ -1,0 +1,767 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "17814dce-b571-42aa-8cf5-dbd0a6a569ec")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Graphic:Logo_Open_Hardware_Large"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board no)
+			(property "Reference" "#SYM"
+				(at 0 12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "Logo_Open_Hardware_Large"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Open Hardware logo, large"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Enable" "0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Logo"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Logo_Open_Hardware_Large_1_1"
+				(polyline
+					(pts
+						(xy 6.731 -8.7122) (xy 6.6294 -8.6614) (xy 6.35 -8.4836) (xy 5.9944 -8.255) (xy 5.5372 -7.9502)
+						(xy 5.1054 -7.6454) (xy 4.7498 -7.4168) (xy 4.4958 -7.239) (xy 4.3942 -7.1882) (xy 4.318 -7.2136)
+						(xy 4.1148 -7.3152) (xy 3.81 -7.4676) (xy 3.6322 -7.5692) (xy 3.3528 -7.6708) (xy 3.2258 -7.6962)
+						(xy 3.2004 -7.6708) (xy 3.0988 -7.4676) (xy 2.9464 -7.0866) (xy 2.7178 -6.604) (xy 2.4892 -6.0452)
+						(xy 2.2352 -5.4356) (xy 1.9558 -4.826) (xy 1.7272 -4.2164) (xy 1.4986 -3.683) (xy 1.3208 -3.2512)
+						(xy 1.2192 -2.9464) (xy 1.1684 -2.8194) (xy 1.1938 -2.794) (xy 1.3208 -2.667) (xy 1.5748 -2.4892)
+						(xy 2.0828 -2.0574) (xy 2.6162 -1.397) (xy 2.921 -0.6604) (xy 3.048 0.1524) (xy 2.9464 0.9144)
+						(xy 2.6416 1.6256) (xy 2.1336 2.286) (xy 1.524 2.7686) (xy 0.8128 3.0734) (xy 0 3.175) (xy -0.762 3.0988)
+						(xy -1.4986 2.794) (xy -2.159 2.286) (xy -2.4384 1.9812) (xy -2.8194 1.3208) (xy -3.048 0.6096)
+						(xy -3.0734 0.4318) (xy -3.0226 -0.3556) (xy -2.794 -1.0922) (xy -2.3876 -1.7526) (xy -1.8288 -2.3114)
+						(xy -1.7526 -2.3622) (xy -1.4732 -2.5654) (xy -1.2954 -2.6924) (xy -1.1684 -2.8194) (xy -2.159 -5.207)
+						(xy -2.3114 -5.588) (xy -2.5908 -6.2484) (xy -2.8194 -6.8072) (xy -3.0226 -7.2644) (xy -3.1496 -7.5692)
+						(xy -3.2258 -7.6708) (xy -3.2258 -7.6962) (xy -3.302 -7.6962) (xy -3.4798 -7.6454) (xy -3.8354 -7.4676)
+						(xy -4.0386 -7.366) (xy -4.2926 -7.239) (xy -4.4196 -7.1882) (xy -4.5212 -7.239) (xy -4.7498 -7.3914)
+						(xy -5.1054 -7.6454) (xy -5.5372 -7.9248) (xy -5.9436 -8.2042) (xy -6.3246 -8.4582) (xy -6.604 -8.636)
+						(xy -6.731 -8.7122) (xy -6.7564 -8.7122) (xy -6.858 -8.636) (xy -7.0866 -8.4582) (xy -7.4168 -8.1534)
+						(xy -7.874 -7.6962) (xy -7.9502 -7.62) (xy -8.3312 -7.239) (xy -8.636 -6.9088) (xy -8.8392 -6.6802)
+						(xy -8.9154 -6.5786) (xy -8.9154 -6.5786) (xy -8.8392 -6.4516) (xy -8.6614 -6.1722) (xy -8.4328 -5.7912)
+						(xy -8.128 -5.3594) (xy -7.3152 -4.191) (xy -7.7724 -3.0988) (xy -7.8994 -2.7686) (xy -8.0772 -2.3622)
+						(xy -8.2042 -2.0828) (xy -8.255 -1.9558) (xy -8.382 -1.905) (xy -8.6614 -1.8542) (xy -9.0932 -1.7526)
+						(xy -9.6266 -1.651) (xy -10.1092 -1.5748) (xy -10.541 -1.4732) (xy -10.8712 -1.4224) (xy -11.0236 -1.397)
+						(xy -11.049 -1.3716) (xy -11.0744 -1.2954) (xy -11.0998 -1.143) (xy -11.0998 -0.889) (xy -11.1252 -0.4572)
+						(xy -11.1252 0.1524) (xy -11.1252 0.2286) (xy -11.0998 0.8128) (xy -11.0998 1.27) (xy -11.0744 1.5494)
+						(xy -11.0744 1.6764) (xy -11.0744 1.6764) (xy -10.922 1.7018) (xy -10.6172 1.778) (xy -10.16 1.8542)
+						(xy -9.652 1.9558) (xy -9.6012 1.9812) (xy -9.0932 2.0828) (xy -8.636 2.159) (xy -8.3312 2.2352)
+						(xy -8.2042 2.286) (xy -8.1788 2.3114) (xy -8.0772 2.5146) (xy -7.9248 2.8448) (xy -7.747 3.2512)
+						(xy -7.5692 3.6576) (xy -7.4168 4.0386) (xy -7.3152 4.318) (xy -7.2898 4.445) (xy -7.2898 4.445)
+						(xy -7.366 4.572) (xy -7.5438 4.826) (xy -7.7978 5.207) (xy -8.128 5.6642) (xy -8.128 5.6896)
+						(xy -8.4328 6.1468) (xy -8.6868 6.5278) (xy -8.8392 6.7818) (xy -8.9154 6.9088) (xy -8.9154 6.9088)
+						(xy -8.8138 7.0358) (xy -8.5852 7.2898) (xy -8.255 7.6454) (xy -7.874 8.0264) (xy -7.747 8.1534)
+						(xy -7.3152 8.5852) (xy -7.0104 8.8646) (xy -6.8326 8.9916) (xy -6.731 9.0424) (xy -6.731 9.0424)
+						(xy -6.604 8.9408) (xy -6.3246 8.763) (xy -5.9436 8.509) (xy -5.4864 8.2042) (xy -5.461 8.1788)
+						(xy -5.0038 7.874) (xy -4.6482 7.62) (xy -4.3688 7.4422) (xy -4.2672 7.3914) (xy -4.2418 7.3914)
+						(xy -4.064 7.4422) (xy -3.7338 7.5438) (xy -3.3528 7.6962) (xy -2.9464 7.874) (xy -2.5654 8.0264)
+						(xy -2.286 8.1534) (xy -2.159 8.2296) (xy -2.159 8.2296) (xy -2.1082 8.382) (xy -2.032 8.7122)
+						(xy -1.9304 9.1694) (xy -1.8288 9.7282) (xy -1.8034 9.8044) (xy -1.7018 10.3378) (xy -1.6256 10.7696)
+						(xy -1.5748 11.0744) (xy -1.524 11.2014) (xy -1.4478 11.2268) (xy -1.1938 11.2522) (xy -0.8128 11.2522)
+						(xy -0.3302 11.2522) (xy 0.1524 11.2522) (xy 0.6604 11.2522) (xy 1.0668 11.2268) (xy 1.3716 11.2014)
+						(xy 1.4986 11.176) (xy 1.4986 11.176) (xy 1.5494 11.0236) (xy 1.6256 10.6934) (xy 1.7018 10.2108)
+						(xy 1.8288 9.6774) (xy 1.8288 9.5758) (xy 1.9304 9.0424) (xy 2.032 8.6106) (xy 2.0828 8.3058)
+						(xy 2.1336 8.2042) (xy 2.159 8.1788) (xy 2.3876 8.0772) (xy 2.7432 7.9248) (xy 3.175 7.747) (xy 4.191 7.3406)
+						(xy 5.461 8.2042) (xy 5.5626 8.2804) (xy 6.0198 8.5852) (xy 6.3754 8.8392) (xy 6.6294 8.9916)
+						(xy 6.7564 9.0424) (xy 6.7564 9.0424) (xy 6.8834 8.9408) (xy 7.1374 8.7122) (xy 7.4676 8.382)
+						(xy 7.8486 7.9756) (xy 8.1534 7.6962) (xy 8.4836 7.3406) (xy 8.7122 7.112) (xy 8.8392 6.9596)
+						(xy 8.8646 6.858) (xy 8.8646 6.8072) (xy 8.7884 6.6802) (xy 8.6106 6.4008) (xy 8.3312 6.0198)
+						(xy 8.0264 5.588) (xy 7.7978 5.207) (xy 7.5184 4.8006) (xy 7.3406 4.4958) (xy 7.2898 4.3434) (xy 7.2898 4.2926)
+						(xy 7.3914 4.0386) (xy 7.5184 3.683) (xy 7.7216 3.2258) (xy 8.1534 2.2352) (xy 8.7884 2.1082)
+						(xy 9.1948 2.0574) (xy 9.7536 1.9304) (xy 10.2616 1.8288) (xy 11.0998 1.6764) (xy 11.1252 -1.3208)
+						(xy 10.9982 -1.3716) (xy 10.8712 -1.397) (xy 10.5664 -1.4732) (xy 10.1346 -1.5494) (xy 9.6266 -1.651)
+						(xy 9.1948 -1.7272) (xy 8.7376 -1.8288) (xy 8.4328 -1.8796) (xy 8.2804 -1.905) (xy 8.255 -1.9558)
+						(xy 8.1534 -2.159) (xy 7.9756 -2.5146) (xy 7.8232 -2.921) (xy 7.6454 -3.3274) (xy 7.493 -3.7338)
+						(xy 7.366 -4.0132) (xy 7.3406 -4.191) (xy 7.3914 -4.2926) (xy 7.5692 -4.5466) (xy 7.7978 -4.9276)
+						(xy 8.1026 -5.3594) (xy 8.4074 -5.7912) (xy 8.6614 -6.1722) (xy 8.8138 -6.4262) (xy 8.89 -6.5532)
+						(xy 8.8646 -6.6548) (xy 8.6868 -6.858) (xy 8.3566 -7.1882) (xy 7.874 -7.6708) (xy 7.7978 -7.747)
+						(xy 7.3914 -8.128) (xy 7.0612 -8.4328) (xy 6.8326 -8.636) (xy 6.731 -8.7122)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Graphic:SYM_ESD_Large"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board no)
+			(property "Reference" "#SYM"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "SYM_ESD_Large"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" ""
+				(at -0.127 -0.762 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at -0.127 -0.762 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "ESD warning/\"Do not touch\" symbol, large"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Enable" "0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "symbol ESD"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SYM_ESD_Large_0_0"
+				(polyline
+					(pts
+						(xy -2.667 -0.762) (xy 4.318 -3.302)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.4826 -5.1308) (xy 5.3848 -5.1308) (xy 5.3848 -5.1054) (xy 5.334 -5.0546) (xy 5.2832 -4.953)
+						(xy 5.207 -4.826) (xy 5.0038 -4.4704) (xy 4.8768 -4.2672) (xy 4.7498 -4.0386) (xy 4.1402 -3.0226)
+						(xy 3.9878 -2.7432) (xy 3.5306 -1.9812) (xy 3.4036 -1.7526) (xy 3.2766 -1.5494) (xy 3.1496 -1.3716)
+						(xy 3.0734 -1.1938) (xy 2.9972 -1.0668) (xy 2.921 -0.9652) (xy 2.8956 -0.889) (xy 2.8448 -0.8382)
+						(xy 2.8194 -0.8636) (xy 2.7686 -0.889) (xy 2.5908 -1.0668) (xy 2.4892 -1.2192) (xy 2.4638 -1.3462)
+						(xy 2.413 -1.4224) (xy 2.3622 -1.5748) (xy 2.286 -1.7018) (xy 1.9812 -2.0066) (xy 1.8542 -2.1082)
+						(xy 1.7018 -2.2352) (xy 1.5494 -2.3368) (xy 1.397 -2.4638) (xy 1.2192 -2.5908) (xy 1.0668 -2.7178)
+						(xy 0.9144 -2.8194) (xy 0.8128 -2.8956) (xy 0.7112 -2.9464) (xy 0.6096 -3.0226) (xy 0.3556 -3.2258)
+						(xy 0.254 -3.3528) (xy 0.1524 -3.5052) (xy 0.0508 -3.683) (xy -0.0762 -3.8862) (xy -0.2286 -4.2672)
+						(xy -0.381 -4.572) (xy -0.5334 -4.7244) (xy -0.6096 -4.7752) (xy -0.635 -4.8006) (xy -0.8382 -4.8006)
+						(xy -0.9144 -4.7752) (xy -1.016 -4.6736) (xy -1.0668 -4.5212) (xy -1.1176 -4.3434) (xy -1.143 -4.1148)
+						(xy -1.143 -3.4544) (xy -1.0922 -3.2512) (xy -1.0414 -3.0734) (xy -0.9398 -2.921) (xy -0.8382 -2.794)
+						(xy -0.381 -2.3368) (xy -0.3048 -2.2352) (xy -0.2032 -1.9812) (xy -0.1778 -1.9304) (xy -0.1524 -1.8288)
+						(xy -0.127 -1.7526) (xy -0.127 -1.7272) (xy -0.2032 -1.651) (xy -0.254 -1.5748) (xy -0.3556 -1.524)
+						(xy -0.4318 -1.4478) (xy -0.508 -1.397) (xy -0.5588 -1.3462) (xy -0.6096 -1.3462) (xy -0.6604 -1.3716)
+						(xy -0.7366 -1.4224) (xy -0.8382 -1.4732) (xy -0.9652 -1.5494) (xy -1.0668 -1.6002) (xy -1.1684 -1.6764)
+						(xy -1.3208 -1.778) (xy -1.6002 -2.0574) (xy -1.778 -2.2606) (xy -1.7272 -2.3876) (xy -1.7018 -2.4384)
+						(xy -1.7018 -2.5146) (xy -1.6764 -2.5908) (xy -1.6764 -2.8702) (xy -1.7018 -2.9972) (xy -1.7272 -3.0734)
+						(xy -1.7272 -3.0988) (xy -1.7526 -3.1496) (xy -1.7018 -3.2512) (xy -1.651 -3.3274) (xy -1.651 -3.3528)
+						(xy -1.524 -3.6068) (xy -1.4478 -3.8608) (xy -1.4224 -4.1402) (xy -1.4224 -4.3434) (xy -1.4478 -4.4196)
+						(xy -1.4732 -4.4704) (xy -1.4986 -4.5466) (xy -1.5748 -4.6736) (xy -1.6764 -4.7498) (xy -1.778 -4.8006)
+						(xy -1.8796 -4.8006) (xy -1.9558 -4.7752) (xy -2.0066 -4.7244) (xy -2.0574 -4.6228) (xy -2.1336 -4.4958)
+						(xy -2.2098 -4.318) (xy -2.3114 -4.0894) (xy -2.413 -3.8354) (xy -2.5146 -3.5306) (xy -2.5146 -3.5052)
+						(xy -2.5654 -3.3528) (xy -2.6416 -3.2004) (xy -2.7432 -2.9464) (xy -2.7686 -2.921) (xy -2.8448 -2.6924)
+						(xy -2.8956 -2.4638) (xy -2.8956 -2.2606) (xy -2.8448 -2.032) (xy -2.7686 -1.8034) (xy -2.7178 -1.7018)
+						(xy -2.6162 -1.5494) (xy -2.5146 -1.3716) (xy -2.3622 -1.1938) (xy -2.2098 -0.9906) (xy -2.1082 -0.889)
+						(xy -1.9558 -0.635) (xy -1.8796 -0.5334) (xy -1.8542 -0.508) (xy -1.7272 -0.2794) (xy -1.6002 -0.1016)
+						(xy -1.4478 0.0508) (xy -1.3208 0.1524) (xy -1.1684 0.2032) (xy -1.1176 0.2286) (xy -0.9906 0.254)
+						(xy -0.8128 0.3048) (xy -0.5842 0.3302) (xy -0.3302 0.3556) (xy -0.0254 0.381) (xy 0.0254 0.381)
+						(xy 0.2794 0.4064) (xy 0.508 0.4318) (xy 0.6858 0.4318) (xy 0.8382 0.4572) (xy 0.9652 0.4826)
+						(xy 1.0668 0.508) (xy 1.1684 0.5588) (xy 1.2446 0.5842) (xy 1.3208 0.635) (xy 1.524 0.7874) (xy 1.7272 0.9906)
+						(xy 1.7272 1.0414) (xy 1.7018 1.0922) (xy 1.651 1.1684) (xy 1.6002 1.27) (xy 1.4986 1.4224) (xy 1.4224 1.6002)
+						(xy 1.1684 2.0066) (xy 1.0414 2.2352) (xy 0.6604 2.8702) (xy 0.508 3.0988) (xy 0.4064 3.302) (xy 0.3048 3.4544)
+						(xy 0.2286 3.5814) (xy 0.1524 3.683) (xy 0.1016 3.7592) (xy 0.0508 3.8608) (xy 0.0254 3.8862)
+						(xy -0.0508 3.8862) (xy -0.0508 3.8608) (xy -0.127 3.7846) (xy -0.1524 3.7338) (xy -0.2032 3.6576)
+						(xy -0.254 3.556) (xy -0.4064 3.302) (xy -0.508 3.1496) (xy -0.6096 2.9718) (xy -0.7366 2.7686)
+						(xy -1.0414 2.2606) (xy -1.2192 1.9558) (xy -1.4224 1.6256) (xy -1.8796 0.8636) (xy -2.1336 0.4064)
+						(xy -2.4384 -0.0762) (xy -2.7432 -0.6096) (xy -2.921 -0.889) (xy -3.429 -1.7526) (xy -3.6576 -2.159)
+						(xy -3.8862 -2.54) (xy -4.1148 -2.8956) (xy -4.318 -3.2512) (xy -4.5212 -3.5814) (xy -4.6736 -3.8862)
+						(xy -4.8514 -4.1402) (xy -4.9784 -4.3942) (xy -5.1054 -4.5974) (xy -5.2324 -4.7752) (xy -5.3594 -5.0292)
+						(xy -5.4102 -5.1054) (xy -5.4102 -5.1308) (xy -0.7112 -5.1308) (xy -0.0254 -5.1562) (xy 0.4826 -5.1308)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "SYM_ESD_Large_0_1"
+				(polyline
+					(pts
+						(xy -5.334 -5.08) (xy 5.334 -5.08) (xy 0 3.81) (xy -5.334 -5.08)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "mechaduino_kicad:NEMA_17_Hole_Pattern"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J2"
+				(at 8.89 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "NEMA 17 Hole Pattern"
+				(at 0 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "mechaduino_kicad:NEMA 17 Hole Pattern"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "NEMA_17_Hole_Pattern_0_1"
+				(circle
+					(center -5.08 5.08)
+					(radius 2.8398)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -5.08 -5.08)
+					(radius 2.8398)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 5.08 5.08)
+					(radius 2.8398)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 5.08 -5.08)
+					(radius 2.8398)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "Mechaduino KiCad Root Schematic"
+		(exclude_from_sim no)
+		(at 187.325 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a58ef0ab-0928-4dbe-bc2b-7e16eeb1eed7")
+	)
+	(text "Original design by Joe Church/Tropical Labs\nhttps://github.com/jcchurch13/Mechaduino-Hardware\nKiCad Port done by Danilo Pesevic for IDMIL"
+		(exclude_from_sim no)
+		(at 179.07 173.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b9daf880-0e27-48d9-8591-24cc1314a6b8")
+	)
+	(text "3/13/2026"
+		(exclude_from_sim no)
+		(at 207.01 194.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c39f1167-08f2-4ea2-b81d-0e897a9e418e")
+	)
+	(text "Released under the Creative Commons\nAttribution Share-Alike 4.0 License\nhttps://creativecommons.org/licenses/by-sa/4.0/"
+		(exclude_from_sim no)
+		(at 179.07 180.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c843b0e5-80f5-43e6-b5f0-a5222b8acd3c")
+	)
+	(text "1.2"
+		(exclude_from_sim no)
+		(at 269.24 194.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f4fd96dc-4067-45c6-b3f8-f7bca171a361")
+	)
+	(symbol
+		(lib_id "mechaduino_kicad:NEMA_17_Hole_Pattern")
+		(at 25.4 186.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "60266560-7dcf-49b7-9e57-b44188e5ae0a")
+		(property "Reference" "J13"
+			(at 34.29 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "NEMA 17 Hole Pattern"
+			(at 25.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mechaduino_kicad:NEMA 17 Hole Pattern"
+			(at 25.4 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 25.4 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Mechaduino-Hardware-KiCad"
+				(path "/17814dce-b571-42aa-8cf5-dbd0a6a569ec"
+					(reference "J13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:Logo_Open_Hardware_Large")
+		(at 158.75 182.88 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b529177a-1a72-4d70-aed1-ea39f3d73fff")
+		(property "Reference" "#SYM1"
+			(at 158.75 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Logo_Open_Hardware_Large"
+			(at 158.75 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 158.75 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Mechaduino-Hardware-KiCad"
+				(path "/17814dce-b571-42aa-8cf5-dbd0a6a569ec"
+					(reference "#SYM1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Graphic:SYM_ESD_Large")
+		(at 48.26 185.42 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board no)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fcbe3c21-78ac-42a5-9cac-2f80a704845a")
+		(property "Reference" "#SYM2"
+			(at 48.26 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "SYM_ESD_Large"
+			(at 48.26 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Symbol:Symbol_ESD-Logo_CopperTop"
+			(at 48.133 186.182 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.133 186.182 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 48.26 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Mechaduino-Hardware-KiCad"
+				(path "/17814dce-b571-42aa-8cf5-dbd0a6a569ec"
+					(reference "#SYM2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 55.88)
+		(size 41.91 42.545)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 132 0 0 0.1000)
+		)
+		(uuid "0b21b2c4-a8c6-48d3-ade7-6af4f8fcbf0f")
+		(property "Sheetname" "power_io"
+			(at 41.91 53.8984 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_io.kicad_sch"
+			(at 41.91 99.5176 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Mechaduino-Hardware-KiCad"
+				(path "/17814dce-b571-42aa-8cf5-dbd0a6a569ec"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 55.88)
+		(size 41.91 42.545)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 132 0 0 0.1000)
+		)
+		(uuid "28ecbb87-9c27-494f-9c95-ef84be7ab9a2")
+		(property "Sheetname" "mcu"
+			(at 127 53.8984 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 127 99.5176 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Mechaduino-Hardware-KiCad"
+				(path "/17814dce-b571-42aa-8cf5-dbd0a6a569ec"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 208.28 54.61)
+		(size 41.91 42.545)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 132 0 0 0.1000)
+		)
+		(uuid "f77ab69b-7778-4f41-bb44-b8d0b16e72cc")
+		(property "Sheetname" "motor"
+			(at 208.28 52.6284 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor.kicad_sch"
+			(at 208.28 98.2476 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Mechaduino-Hardware-KiCad"
+				(path "/17814dce-b571-42aa-8cf5-dbd0a6a569ec"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

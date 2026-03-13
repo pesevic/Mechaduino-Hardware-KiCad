@@ -1,0 +1,10 @@
+fabrication/
+enclosure/
+Mechaduino-Hardware-KiCad-backups/
+production/backups/
+*.json
+*.prl
+fp-info-cache
+fp-lib-table
+sym-lib-table
+production/designators.csv

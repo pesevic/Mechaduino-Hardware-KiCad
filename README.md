@@ -1,0 +1,1 @@
+This repository contains a KiCad port of [jcchurch13's](https://github.com/jcchurch13/Mechaduino-Hardware) Mechaduino hardware.
