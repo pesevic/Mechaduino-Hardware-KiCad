@@ -1,4 +1,4 @@
-![3D Render of Mechaduino PCB](images\Mechaduino-Hardware-KiCad.png)
+![3D Render of Mechaduino PCB](images/Mechaduino-Hardware-KiCad.png)
 # Overview
 This repository contains an updated KiCad port of [jcchurch13's](https://github.com/jcchurch13/Mechaduino-Hardware) Mechaduino hardware. 
 
